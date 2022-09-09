@@ -1,40 +1,134 @@
 * {
-    background-color: aquamarine;
+    background-color: ;
 }
 
+/* .main {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+} */
+
+.container1 {
+    height: 175px;
+    width: 175px;
+    background-color: red;
+    border-radius: 20px 0px 0px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container2 {
+    height: 175px;
+    width: 175px;
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container3 {
+    height: 175px;
+    width: 175px;
+    background-color: bisque;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 0px 0px 0px 20px;
+}
+
+.console {
+    display: flex;
+}
+
+.screen {
+    width: 820px;
+    height: 525px;
+    background-color: black;
+}
+
+.container4 {
+    height: 175px;
+    width: 175px;
+    background-color: red;
+}
+
+.container5 {
+    height: 175px;
+    width: 175px;
+    background-color: green;
+}
+
+.container6 {
+    height: 175px;
+    width: 175px;
+    background-color: bisque;
+}
+
+.a-button-top {
+    background-color: white;
+    height: 85px;
+    width: 85px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button-top {
+    height: 65px;
+    width: 65px;
+    background-color: black;
+    border-radius: 100%;
+}
+
+.a-buttons-4 {
+    background-color: white;
+    height: 85px;
+    width: 85px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.buttons-4 {}
+
+.bl-1 {
+    display: flex;
+    
+}
+
+.bl-2 {
+    display: flex;
+}
+
+.bl-3 {
+   display: flex;
+}
 
 .negro {
     background-color:black;
-    height: 100px;
-    width: 100px ;
+    height: 15px;
+    width: 15px ;
+    border-radius: 100%;
 }
 
 .blanco {
     background-color:white;
-    height: 100px;
-    width: 100px;
-
+    height: 15px;
+    width: 15px;
 }
-.container {
-display: flex;
-}
-
-.container2 {
-display: flex;
-}
-
-.container3 {
+.a-button-bot {
+    background-color: white;
+    height: 85px;
+    width: 85px;
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
-.container4 {
-    display: flex;
 
-}
-.container5 {
-    display: flex;
-
-}
-.container6 {
-    display: flex;
-
+.button-bot {
+    height: 65px;
+    width: 65px;
+    background-color: black;
+    border-radius: 100%;
 }
